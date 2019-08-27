@@ -1,3 +1,15 @@
+### Matt Notes
+
+- `brew install zsh`
+- `chsh -s $(which zsh)`
+- `brew install coreutils`
+- `brew install fzf`
+- `brew install wget`
+- `sh -c "$(wget -O- https://raw.githubusercontent.com/MGallow/oh-my-zsh/master/tools/install.sh --no-check-certificate)"`
+- Change default shell on Hyper
+
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
